@@ -5,10 +5,6 @@ import 'whatsappHome.dart';
 
 late List<CameraDescription> cameras;
 
-// void main() {
-//   runApp(MyApp());
-// }
-
 Future <void> main() async {
   try {
     WidgetsFlutterBinding.ensureInitialized();
